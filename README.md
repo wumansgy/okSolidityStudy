@@ -1,2 +1,2 @@
 # okSolidityStudy
-Learn solidity notes
+Learn solidity notes.
