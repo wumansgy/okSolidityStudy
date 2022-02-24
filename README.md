@@ -1,0 +1,2 @@
+# okSolidityStudy
+Learn solidity notes
