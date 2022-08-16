@@ -1,0 +1,15 @@
+{
+  "name": "1-入学纪念卡",
+  "description": "入学纪念卡",
+  "image": "https://ipfs.io/ipfs/QmaDtpfe5sHDSYKYS44gnP8toVA1fLDWGFXQTbZbheUfrR?filename=00194ebfbf546465979f4f755b28a4e.jpg",
+  "attributes": [
+    {
+      "trait_type": "作者",
+      "value": "WUMAN"
+    },
+    {
+      "trait_type": "区块链网络",
+      "value": "万纳链"
+    }
+  ]
+}
